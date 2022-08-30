@@ -7,8 +7,15 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@vuelidate/core": "^2.0.0-alpha.44",
+    "@vuelidate/validators": "^2.0.0-alpha.31",
+    "bootstrap": "^5.2.0",
+    "bootstrap-icons": "^1.9.1",
     "core-js": "^3.8.3",
+    "firebase": "^9.9.2",
+    "pinia": "^2.0.18",
     "vue": "^3.2.13",
+    "vue-json-csv": "^2.1.0",
     "vue-router": "^4.0.3"
   },
   "devDependencies": {

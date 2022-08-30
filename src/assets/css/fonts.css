@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "CairoLight";
+    src: url("@/assets/fonts/Cairo-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "CairoNormal";
+    src: url("@/assets/fonts/Cairo-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "CairoBold";
+    src: url("@/assets/fonts/Cairo-SemiBold.ttf") format("truetype");
+}

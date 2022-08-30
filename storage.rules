@@ -1,0 +1,9 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    match /files/{documents=**} {
+      allow read, create: if true;
+      allow delete : if false ;
+    }
+  }
+}

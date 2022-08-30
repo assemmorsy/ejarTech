@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "ejar-tech"
+  },
+  "targets": {
+    "ejar-tech": {
+      "hosting": {
+        "site": [
+          "ejartech-survey"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
